@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Reddit: Banned (I owe you respect here)
 - Instagram: 404
 - Snapchat: 404
-- Linkedin: Stay away from me (you professional slave)
+- Linkedin: Stay away from me (you corporate slave)
 
 <p> Stats for nerds (a.k.a Stalkers): </p>
 
