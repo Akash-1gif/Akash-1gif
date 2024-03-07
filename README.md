@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Akash-1gif/Akash-1gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-1gif&label=Profile%20views&color=0e75b6&style=flat" alt="who??" /> </p>
+
+### Context: This developer has screwn up his mental peace and presence of mind while completing his Master's degree which would soon turn out to be useless
+<h1 align="center">Hello... My name is Akash and I know that no one cares about this section</h1>
+
+<p> Something about this * DEAD * user: </p>
+
+- A messed up evil genius who was capable of achieving the impossible 
+
+- An ENTJ by birth, but due to societal pressure and factual world: this kid grew up to become an ISFP (or ISFJ, who sucks)
+
+- Need to push my superior projects, but due to my shitty comments, I held them back (TBH no one would actually care about them as I left programming and life which was meant to be lived happily (Although it involves some serious ML, AI and Mathematical tasks))
+
+- Due to GDPR compliances, I wish to protect my data (TBH I don't like to share my contact information as I'm not interested to interact with anyone regarding anything. But yes, you can invite me to play NFS, Fall Guys and Asserto Corsa. Would get into Forza Horizon 5 soon)
+
+### Contact Info:
+- Facebook: Deleted
+- Discord: Account and Server deleted
+- Reddit: Banned
+- Instagram: 404
+- Snapchat: 404
+- Linkedin: Stay away from me
+
+<p> Stats for nerds (a.k.a Stalkers): </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-1gif&show_icons=true&locale=en&layout=compact" alt="Bruh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-1gif&show_icons=true&locale=en" alt="Bruh x 2" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-1gif&" alt="your mum" /></p>
