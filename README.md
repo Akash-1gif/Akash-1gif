@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-1gif&label=Profile%20views&color=0e75b6&style=flat" alt="who??" /> </p>
 
-### Context: This developer has screwn up his mental peace and presence of mind while completing his Master's degree which would soon turn out to be useless
+### Context: This developer has screwn up his mental peace and presence of mind while pursuing his Master's degree which would soon turn out to be useless
 <h1 align="center">Hello... My name is Akash and I know that no one cares about this section</h1>
 
 <p> Something about this * DEAD * user: </p>
