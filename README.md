@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - An ENTJ (INTJ to be precise) by birth, but due to societal pressure and the factual world: this kid grew up to become an ISFP (or ISFJ, who sucks)
 
-I need to push my superior projects, but due to my unconventional comments, I held them back (TBH no one would care about them as I left programming and life which was meant to be lived happily (Although it involves some serious ML, AI and Mathematical tasks)
+- I need to push my superior projects, but due to my unconventional comments, I held them back (TBH no one would care about them as I left programming and life which was meant to be lived happily (Although it involves some serious ML, AI and Mathematical tasks)
 
 - Due to GDPR compliances, I wish to protect my data (TBH I don't like sharing my contact information as I'm not interested in interacting with anyone regarding anything. I'm done with people and I don't want anyone new in my life). But yes, you can invite me to play NFS, Fall Guys, and Asserto Corsa. I have shared my Steam account link. Would get into Forza Horizon 5 soon - if I could survive today
 
