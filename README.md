@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - Youtube: Yes, I made a futile attempt to be a youtuber (so I hate my account)
 - X: My tweets are not valued. Because they don't make any sense
 - Twitch: I'd fail there
-- Steam: <a href="https://steamcommunity.com/profiles/76561199233729802/" target="blank">THeDonaldDuck</a>
+- Steam: <a href="https://steamcommunity.com/profiles/76561199233729802/" target="blank">TheDonaldDuck</a>
 - Epic Games: Corrupted
 
 <p> Stats for nerds (a.k.a Stalkers): </p>
