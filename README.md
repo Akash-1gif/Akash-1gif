@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Instagram: 404
 - Snapchat: 404
 - Quora: Deleted
-- Tinder, Bumblee: Mere crush ke naam pe fake accounts hai, chalega?
+- Tinder, Bumblee: Mere crush(es) ke boyfriend(s) naam pe fake accounts hai, chalega?
 - Linkedin: Stay away from me (you corporate slave)
 - Medium: I forgot my credentials
 - Pintrest: What's that?
