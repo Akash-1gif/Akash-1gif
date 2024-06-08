@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - Due to GDPR compliances, I wish to protect my data (TBH I don't like sharing my contact information as I'm not interested in interacting with anyone regarding anything. I'm done with people and I don't want anyone new in my life). But yes, you can invite me to play NFS, Fall Guys, and Asserto Corsa. I have shared my Steam account link. Would get into Forza Horizon 5 soon - if I could survive today
 
-- Current Activity: <b> Researching Privacy-Preserving Machine Learning, training ML models using encrypted data, investigating methods to train ML models with encrypted data, and evaluating their performance </b> - And I'll be deleting this account after completing this shithole, troublesome and hopless thesis (Deleting account - Hopefully)
+- Current Activity: <b> Researching Privacy-Preserving Machine Learning, training ML models using encrypted data, investigating methods to train ML models with encrypted data, and evaluating their performance </b> - And I'll be deleting this account after completing this shithole, troublesome, gruelling and hopless thesis (Deleting account - Hopefully). And let's hope that my thesis partner would show some mercy on me if we fail
 
 ### Contact Info:
 - Facebook: Deleted
