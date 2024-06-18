@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Check the previous versions of Akash-1gif
+### Programmer's Stats:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-1gif&show_icons=true&locale=en&layout=compact" alt="Bruh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-1gif&show_icons=true&locale=en" alt="Bruh x 2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-1gif&" alt="your mum" /></p>
