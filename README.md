@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-1gif&" alt="your mum" /></p>
 
 ## What I Do
-- **Flask Developer**: Develop robust applications related to ML applications, LLM interactions, and automation
+- **Flask Developer**: Develop robust applications related to ML and LLM use cases, and automation
 - **Data Engineer**: Ensuring smooth creation and deployment of data pipelines and developing suitable data ingestion methods for the applications
