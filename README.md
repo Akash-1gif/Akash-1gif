@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-1gif&show_icons=true&locale=en" alt="Bruh x 2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-1gif&" alt="your mum" /></p>
+
+## What I Do
+- **Flask Developer**: Develop robust applications related to ML applications, LLM interactions, and automation
+- **Data Engineer**: Ensuring smooth creation and deployment of data pipelines and developing suitable data ingestion methods for the applications
